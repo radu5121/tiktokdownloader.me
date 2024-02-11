@@ -307,7 +307,7 @@ select {
 	-ms-appearance: none;
     -o-appearance: none;
     appearance: none;
-    background-image: url('/web/20220113102457im_/http://tiktokdownloader.me/images/down-arrow.png');
+    background-image: url('/web/20220113102457im_/https://tiktokdownloader.me/images/down-arrow.png');
     background-position: 98% 50%;
     background-repeat: no-repeat;
     outline: none;
@@ -546,15 +546,15 @@ select {
 }
 
 .cards-1 .card-icon.blue {
-	background: url('/web/20220113102457im_/http://tiktokdownloader.me/images/services-icon-bg-blue.png') center center no-repeat;
+	background: url('/web/20220113102457im_/https://tiktokdownloader.me/images/services-icon-bg-blue.png') center center no-repeat;
 }
 
 .cards-1 .card-icon.yellow {
-	background: url('/web/20220113102457im_/http://tiktokdownloader.me/images/services-icon-bg-yellow.png') center center no-repeat;
+	background: url('/web/20220113102457im_/https://tiktokdownloader.me/images/services-icon-bg-yellow.png') center center no-repeat;
 }
 
 .cards-1 .card-icon.red {
-	background: url('/web/20220113102457im_/http://tiktokdownloader.me/images/services-icon-bg-red.png') center center no-repeat;
+	background: url('/web/20220113102457im_/https://tiktokdownloader.me/images/services-icon-bg-red.png') center center no-repeat;
 }
 
 .cards-1 .card-icon .fas,
@@ -957,7 +957,7 @@ select {
 .basic-2 .text-container {
 	padding: 5rem 1.5rem 5rem 1.5rem;
 	border-radius: 28px;
-	background: url('/web/20220113102457im_/http://tiktokdownloader.me/images/invitation-background.jpg') center center no-repeat;
+	background: url('https://tiktokdownloader.me/images/invitation-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
